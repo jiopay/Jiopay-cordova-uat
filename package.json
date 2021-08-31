@@ -1,16 +1,16 @@
 {
-  "name": "com.razorpay.cordova",
+  "name": "com.jiopay.cordova",
   "version": "1.4.14",
-  "description": "Cordova/Phonegap bindings for Razorpay's Mobile SDKs",
+  "description": "Cordova/Phonegap bindings for Jiopay's Mobile SDKs",
   "main": "Readme.md",
   "scripts": {
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/razorpay/razorpay-cordova.git"
+    "url": "git+https://github.com/jiopay/Jiopay-cordova-uat.git"
   },
   "keywords": [
-    "razorpay",
+    "jiopay",
     "ecosystem:cordova",
     "cordova",
     "phonegap",
@@ -19,8 +19,8 @@
     "cordova-ios",
     "cordova-browser"
   ],
-  "author": "Razorpay Developers <developers@razorpay.com> (https://razorpay.com/)",
-  "license": "ISC",
+  "author": "Jiopay",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/razorpay/razorpay-cordova/issues"
   },
