@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="com.razorpay.cordova"
-        version="0.16.1">
+        id="com.jiopay.cordova"
+        version="0.0.1">
 
   <name></name>
   <description>Jiopay's UAT Plugin for Checkout</description>
-  <author>Razorpay</author>
-  <keywords>razorpay,payments,payment,gateway,checkout</keywords>
+  <author>Jiopay</author>
+  <keywords>jiopay,payments,payment,gateway,checkout</keywords>
 
   <engines>
     <engine name="cordova" version=">=3.4.0"/>
