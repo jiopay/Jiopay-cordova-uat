@@ -22,10 +22,10 @@
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="Checkout">
-        <param name="android-package" value="com.razorpay.cordova.Main"/>
+        <param name="android-package" value="com.jiopay.cordova.Main"/>
       </feature>
     </config-file>
-    <framework src="com.razorpay:checkout:1.6.10"/>
+    <!-- <framework src="com.razorpay:checkout:1.6.10"/> -->
     <source-file src="src/android/Main.java" target-dir="src/com/razorpay/cordova/"/>
   </platform>
 
